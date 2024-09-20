@@ -24,6 +24,26 @@ Download and install Power BI Desktop from Microsoft store.
 
 Clone or download this repository.
 
+--> Sum of Sales Card
+
+
+
+![Screenshot 2024-09-20 150546](https://github.com/user-attachments/assets/227216a7-ffe1-4230-bd96-e66f82c072ee)
+
+--> Sum of Profit Card
+
+
+
+![Screenshot 2024-09-20 150736](https://github.com/user-attachments/assets/d571f145-d826-4146-b482-b9d312119fd2)
+
+
+--> Sum of sales by year
+
+
+
+
+![Screenshot 2024-09-20 150752](https://github.com/user-attachments/assets/5cd36cff-cd39-430c-ae80-c5649070694a)
+
 
 --> Store Sales Dashboard
 
@@ -35,3 +55,6 @@ Clone or download this repository.
 
 
 ![Screenshot 2024-09-20 144655](https://github.com/user-attachments/assets/80bd0b74-174d-4634-8eac-dda5c5bf77a8)
+
+
+
